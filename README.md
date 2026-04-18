@@ -77,8 +77,8 @@ gcc main.c account.c file.c transaction.c -o bank
 ## 📌 Notes
 
 ## 📸 Output Preview
-![Output](screenshot1.png)
-![Output](screenshot2.png)
+![Output](Screenshot1.png)
+![Output](Screenshot2.png)
 
 * Data is stored locally using files
 * No database used (can be extended)
